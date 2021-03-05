@@ -14,7 +14,7 @@ Zadania z ćwiczeń laboratoryjnych z przedmiotu Rachunek Prawdopodobieństwa i 
  
  ### Zadanie 1
 Zadania oparte są na zbiorze danych precip z biblioteki standardowej R (?precip). Napisz skrypt (pojedynczy plik z rozszerzeniem .R)\
-zawierający instrukcje wydobywające następujące informacje.\
+zawierający instrukcje wydobywające następujące informacje.
 
 1.Jaka jest mediana opadów w rejestrowanych miastach?\
 2.Jakie jest odchylenie standardowe opadów?\
@@ -24,13 +24,13 @@ zawierający instrukcje wydobywające następujące informacje.\
 6.Ile jest miast z opadami powyżej średniej?\
 7.W których miastach opady leżą powyżej górnego kwartyla?\
 8.W których miastach opady leżą poniżej dolnego kwartyla?\
-W ostatnich 2 zadaniach można skorzystać z funkcji fivenum().\
+W ostatnich 2 zadaniach można skorzystać z funkcji fivenum().
 
 ### Zadanie 2
 Zadanie oparte jest na zbiorze danych Auto. Należy napisać skrypt w R, który znajduje średnie zużycie paliwa (mpg) wszystkich samochodów.
 
 ### Zadanie 3
-Zadania oparte są na zbiorze danych Auto. Należy napisać skrypt w R, który znajduje następujące informacje.\
+Zadania oparte są na zbiorze danych Auto. Należy napisać skrypt w R, który znajduje następujące informacje.
 
 1.Jakie jest średnie zużycie paliwa samochodów, które mają 4 cylindry?\
 2.Jaka jest mediana wagi (weight) wszystkich samochodów?\
@@ -42,7 +42,7 @@ Zadania oparte są na zbiorze danych Auto. Należy napisać skrypt w R, który z
 8.Ile jest samochodów, których zużycie paliwa jest poniżej średniej (czyli mpg jest powyżej średniej)?\
 9.Jaka jest minimalna liczba cylindrów samochodów, których zużycie paliwa jest poniżej średniej?\
 10.Ile jest samochodów o maksymalnej pojemności silnika (displacement)?\
-11.Jakie jest maksymalna waga (weight) samochodów, których pojemność silnika jest mniejsza od jej mediany.\
+11.Jakie jest maksymalna waga (weight) samochodów, których pojemność silnika jest mniejsza od jej mediany.
 
 ### Zadanie 4
 Zaimplementuj w R obsługę skonczonej przestrzeni probabilistycznej Ω = {1, . . . , N}. Załozenia są następujące:\
