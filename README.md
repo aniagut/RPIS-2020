@@ -95,7 +95,7 @@ Dokonano 5 niezaleznych pomiarów głębokości o wynikach: 862, 870, 876, 866, 
 zweryfikować hipotezę, że średnia głębokość morza jest równa 870 m.
 
 ### Zadanie 9
-Dla wybranego zbioru danych (o co najmniej 5 zmiennych) metodą regresji liniowej najmniejszych kwadratów wykonaj analizę zależności wybranej zmiennej od pozostałych.\ Wybrana zmienna odpowiedzi powinna być numeryczna. Wśród pozostałych co najmniej 2 też powinny być numeryczne. Dla każdego z predyktorów należy odpowiedzieć na następujące pytania.
+Dla wybranego zbioru danych (o co najmniej 5 zmiennych) metodą regresji liniowej najmniejszych kwadratów wykonaj analizę zależności wybranej zmiennej od pozostałych. Wybrana zmienna odpowiedzi powinna być numeryczna. Wśród pozostałych co najmniej 2 też powinny być numeryczne. Dla każdego z predyktorów należy odpowiedzieć na następujące pytania.
 
 1.Czy zmienna odpowiedzi zależy istotnie od danego predyktora?\
 2.Czy zależność jest rosnąca czy malejąca?\
