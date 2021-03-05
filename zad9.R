@@ -2,7 +2,7 @@ library(ISLR)
 #zadanie wykonane na zbiorze danych Auto z
 #biblioteki ISLR
 
-#Badam zaleønosc zmiennej horsepower od
+#Badam zale≈ºnosc zmiennej horsepower od
 #zmiennych mpg,cylinders,displacement,weight
 
 # horsepower ~ mpg
