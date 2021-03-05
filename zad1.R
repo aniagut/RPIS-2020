@@ -1,0 +1,8 @@
+median(precip)
+sd(precip)
+names(precip[precip==mean(precip)])
+names(precip[abs(precip-median(precip))<=0.5])
+names(which.min(precip))
+sum(precip>mean(precip))
+names(precip[precip>fivenum(precip)[4]])
+names(precip[precip<fivenum(precip)[2]])
