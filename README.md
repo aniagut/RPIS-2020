@@ -69,7 +69,7 @@ wartością oczekiwannąw rozkładzie Poissona oblicz estymowaną (czyli wyznacz
 tego parametru w naszym przykładzie, a następnie oblicz prawdopodobieństwo tego, że student będzie w ciągu semestru\
 nieobecny co najmniej 4 razy.\
 Liczba nieobecności 0 1 2 3 4 5 6 7\
-Liczba studentów 12 20 27 18 7 3 2 1\
+Liczba studentów 12 20 27 18 7 3 2 1
 
 ### Zadanie 7
 Napisz skrypt w R implementujący rozkład dyskretny dwuwymiarowy. Załozenia są następujące: \
@@ -87,15 +87,15 @@ Napisz skrypt w R implementujący rozkład dyskretny dwuwymiarowy. Załozenia s�
   ma byc domyślna) powinien zostać zwrócony wektor wartości oczekiwanej.\
 • Funkcja covariance(prob) zwraca macierz kowariancji.\
 • Funkcja independent(prob) zwraca TRUE jesli składowe są niezależne, FALSE w przeciwnym\
-  przypadku.\
+  przypadku.
   
 ### Zadanie 8
 Rozkład pomiarów głębokosci morza w pewnym rejonie jest normalny, przy nieznanym m i σ = 5 m.\
 Dokonano 5 niezaleznych pomiarów głębokości o wynikach: 862, 870, 876, 866, 871. Na poziomie istotności α = 0.05\
-zweryfikować hipotezę, że średnia głębokość morza jest równa 870 m.\
+zweryfikować hipotezę, że średnia głębokość morza jest równa 870 m.
 
 ### Zadanie 9
-Dla wybranego zbioru danych (o co najmniej 5 zmiennych) metodą regresji liniowej najmniejszych kwadratów wykonaj analizę zależności wybranej zmiennej od pozostałych.\ Wybrana zmienna odpowiedzi powinna być numeryczna. Wśród pozostałych co najmniej 2 też powinny być numeryczne. Dla każdego z predyktorów należy odpowiedzieć na następujące\ pytania.
+Dla wybranego zbioru danych (o co najmniej 5 zmiennych) metodą regresji liniowej najmniejszych kwadratów wykonaj analizę zależności wybranej zmiennej od pozostałych.\ Wybrana zmienna odpowiedzi powinna być numeryczna. Wśród pozostałych co najmniej 2 też powinny być numeryczne. Dla każdego z predyktorów należy odpowiedzieć na następujące pytania.
 
 1.Czy zmienna odpowiedzi zależy istotnie od danego predyktora?\
 2.Czy zależność jest rosnąca czy malejąca?\
