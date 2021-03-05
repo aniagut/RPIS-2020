@@ -25,9 +25,11 @@ zawierający instrukcje wydobywające następujące informacje.
 7.W których miastach opady leżą powyżej górnego kwartyla?\
 8.W których miastach opady leżą poniżej dolnego kwartyla?\
 W ostatnich 2 zadaniach można skorzystać z funkcji fivenum().
+[Rozwiązanie](zad1.R)
 
 ### Zadanie 2
 Zadanie oparte jest na zbiorze danych Auto. Należy napisać skrypt w R, który znajduje średnie zużycie paliwa (mpg) wszystkich samochodów.
+[Rozwiązanie](zad2.R)
 
 ### Zadanie 3
 Zadania oparte są na zbiorze danych Auto. Należy napisać skrypt w R, który znajduje następujące informacje.
@@ -43,6 +45,7 @@ Zadania oparte są na zbiorze danych Auto. Należy napisać skrypt w R, który z
 9.Jaka jest minimalna liczba cylindrów samochodów, których zużycie paliwa jest poniżej średniej?\
 10.Ile jest samochodów o maksymalnej pojemności silnika (displacement)?\
 11.Jakie jest maksymalna waga (weight) samochodów, których pojemność silnika jest mniejsza od jej mediany.
+[Rozwiązanie](zad3.R)
 
 ### Zadanie 4
 Zaimplementuj w R obsługę skonczonej przestrzeni probabilistycznej Ω = {1, . . . , N}. Załozenia są następujące:\
@@ -57,10 +60,12 @@ Zaimplementuj w R obsługę skonczonej przestrzeni probabilistycznej Ω = {1, .
  • Należy skonstruować funkcje union(e1, e2), intersect(e1, e2), complement(e) wyznaczające, odpowiednio, sumę część wspólną i dopełnienie podanych zdarzeń.\
  • Należy zaimplementować funkcję prob(space, event) liczącą prawdopodobieństwo zdarzenia\
    event w przestrzeni reprezentowanej przez wektor space.
+ [Rozwiązanie](zad4.R)
   
  ### Zadanie 5
 Liczba bramek strzelonych przez w kazdym meczu przez pewnś drużynę piłkarską ma rozkład Pois(2).\
 Jakie jest prawdopodobienstwo zdobycia przez tę drużynę co najmniej 5 bramek w meczu?
+[Rozwiązanie](zad5.R)
 
 ### Zadanie 6
 Wylosowano 90 studentów i utworzono szereg rozdzielczy ich nieobecnosci w ciągu semestru.\
@@ -70,6 +75,7 @@ tego parametru w naszym przykładzie, a następnie oblicz prawdopodobieństwo te
 nieobecny co najmniej 4 razy.\
 Liczba nieobecności 0 1 2 3 4 5 6 7\
 Liczba studentów 12 20 27 18 7 3 2 1
+[Rozwiązanie](zad6.R)
 
 ### Zadanie 7
 Napisz skrypt w R implementujący rozkład dyskretny dwuwymiarowy. Załozenia są następujące: \
@@ -88,11 +94,13 @@ Napisz skrypt w R implementujący rozkład dyskretny dwuwymiarowy. Załozenia s�
 • Funkcja covariance(prob) zwraca macierz kowariancji.\
 • Funkcja independent(prob) zwraca TRUE jesli składowe są niezależne, FALSE w przeciwnym\
   przypadku.
-  
+[Rozwiązanie](zad7.R)
+
 ### Zadanie 8
 Rozkład pomiarów głębokosci morza w pewnym rejonie jest normalny, przy nieznanym m i σ = 5 m.\
 Dokonano 5 niezaleznych pomiarów głębokości o wynikach: 862, 870, 876, 866, 871. Na poziomie istotności α = 0.05\
 zweryfikować hipotezę, że średnia głębokość morza jest równa 870 m.
+[Rozwiązanie](zad8.R)
 
 ### Zadanie 9
 Dla wybranego zbioru danych (o co najmniej 5 zmiennych) metodą regresji liniowej najmniejszych kwadratów wykonaj analizę zależności wybranej zmiennej od pozostałych. Wybrana zmienna odpowiedzi powinna być numeryczna. Wśród pozostałych co najmniej 2 też powinny być numeryczne. Dla każdego z predyktorów należy odpowiedzieć na następujące pytania.
@@ -101,6 +109,7 @@ Dla wybranego zbioru danych (o co najmniej 5 zmiennych) metodą regresji liniowe
 2.Czy zależność jest rosnąca czy malejąca?\
 3.Jaka jest jakość dopasowania modelu liniowego? Czy są przesłanki do rozważania zależności nieliniowej?\
 Należy sporządzić wykresy prostych regresji na tle danych. 
+[Rozwiązanie](zad9.R)
 
 
 
